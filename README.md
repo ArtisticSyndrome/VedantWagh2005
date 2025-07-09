@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VedantWagh2005
-- 👀 I’m interested in Android Dev
+- 👀 I’m interested in Android Dev and AI
 - 🌱 I’m currently learning FLutter
 - 💞️ I’m looking to collaborate on FLutter Apps
 - 📫 How to reach me - vedantwagh1405@gmail.com
